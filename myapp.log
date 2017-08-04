@@ -1,0 +1,4 @@
+Thu, 27 Jul 2017 14:56:33 3.py[line:11] INFO Start reading database
+Thu, 27 Jul 2017 14:56:33 3.py[line:15] DEBUG Records: {'john': 55, 'tom': 66}
+Thu, 27 Jul 2017 14:56:33 3.py[line:16] INFO Updating records ...
+Thu, 27 Jul 2017 14:56:33 3.py[line:19] INFO Finish updating records
